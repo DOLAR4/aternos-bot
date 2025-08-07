@@ -3,9 +3,9 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'your-server.aternos.me',
+    host: 'WoodCraft_.aternos.me',
     port: 25565,
-    username: 'BotAFK_123',
+    username: '24H',
     auth: 'offline',
     version: '1.20.1'
   });
